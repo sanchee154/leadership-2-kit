@@ -20,7 +20,8 @@ After the first build, Notion holds the entries. Edit them there, not here. If a
 ## Status
 
 - All four schemas (Principles, Roles, Plays, Relationships): approved by Eduardo, Nov 1, 2026.
-- First build: not run yet.
+- First build: done Nov 1, 2026. Notion page: https://app.notion.com/p/40b1bffd379a81e480a2c1413018f82e
+- From here on, Notion holds the entries. The CONTENT files are a snapshot of the first build.
 
 ## Adding a database later
 
