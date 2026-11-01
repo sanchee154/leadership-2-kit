@@ -31,7 +31,7 @@ Create a new top-level Notion page called **Leadership 2.0** that holds three li
 
 ## Left out on purpose (do not add)
 
-- **A Field cases database.** It was offered and not chosen. It can be added later as 40_ and 41_ files.
+- **A Field cases database.** It was offered and not chosen. It can be added later as 50_ and 51_ files.
 - **Page templates and automations.** Not requested. Keep the first version simple.
 
 ## Build order
@@ -62,8 +62,9 @@ All relations are two-way.
 
 ## Open items
 
-- **The schema is a proposal.** Claude drafted the fields, select options and views, and Eduardo hasn't approved them yet. Confirm with him before step 2.
-- **Field cases** is a possible fourth database, for later.
+- **Schema approved.** Eduardo approved the Principles, Roles and Plays schemas on Nov 1, 2026.
+- **Relationships database requested.** Eduardo asked for a fourth database, Relationships, colored purple (40_ and 41_ files). Its schema isn't drafted yet.
+- **Field cases** is a possible later database. It moves to 50_ and 51_ files.
 
 ## Suggested opening prompt (paste into the Claude Code cloud session)
 

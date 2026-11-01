@@ -1,6 +1,6 @@
 # Roles: Schema
 
-**Status: proposed.** Claude drafted this. Confirm it with Eduardo before building.
+**Status: approved** by Eduardo, Nov 1, 2026.
 
 **What this database is:** the roles a group actually runs on, written down so they're visible before the person holding them leaves.
 

@@ -1,6 +1,6 @@
 # Plays: Schema
 
-**Status: proposed.** Claude drafted this. Confirm it with Eduardo before building.
+**Status: approved** by Eduardo, Nov 1, 2026.
 
 **What this database is:** small, repeatable moves a leader makes. Each one is cheap to try and easy to drop if it doesn't work.
 

@@ -19,9 +19,10 @@ After the first build, Notion holds the entries. Edit them there, not here. If a
 
 ## Status
 
-- The schema is still a proposal. Eduardo needs to approve the three SCHEMA files before the first build.
+- Principles, Roles and Plays schemas: approved by Eduardo, Nov 1, 2026.
+- Relationships (purple): requested, schema not drafted yet.
 - First build: not run yet.
 
 ## Adding a database later
 
-Add a SCHEMA and CONTENT pair with the next number (for example `40_Field_cases_SCHEMA.md` and `41_Field_cases_CONTENT.md`), add one line to the file table in `00_MASTER.md`, and give it an unused color.
+Add a SCHEMA and CONTENT pair with the next number (for example `50_Field_cases_SCHEMA.md` and `51_Field_cases_CONTENT.md`), add one line to the file table in `00_MASTER.md`, and give it an unused color.

@@ -1,6 +1,6 @@
 # Principles: Schema
 
-**Status: proposed.** Claude drafted this. Confirm it with Eduardo before building.
+**Status: approved** by Eduardo, Nov 1, 2026.
 
 **What this database is:** the core ideas of Leadership 2.0, one per entry. Each one is a rule you can act on, not a quote to admire.
 
