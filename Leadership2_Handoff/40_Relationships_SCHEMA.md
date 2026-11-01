@@ -1,6 +1,6 @@
 # Relationships: Schema
 
-**Status: proposed.** Claude drafted this. Confirm it with Eduardo before building.
+**Status: approved** by Eduardo, Nov 1, 2026.
 
 **What this database is:** the real people a group depends on, one person per entry. Roles say what work exists. Relationships say who is actually there, how much trust there is, and when someone last reached out.
 

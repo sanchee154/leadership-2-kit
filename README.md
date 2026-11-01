@@ -1,6 +1,6 @@
 # Leadership 2.0 Kit
 
-The build kit for the Leadership 2.0 databases in Notion: Principles, Roles and Plays.
+The build kit for the Leadership 2.0 databases in Notion: Principles, Roles, Plays and Relationships.
 
 ## What lives where
 
@@ -19,8 +19,7 @@ After the first build, Notion holds the entries. Edit them there, not here. If a
 
 ## Status
 
-- Principles, Roles and Plays schemas: approved by Eduardo, Nov 1, 2026.
-- Relationships (purple): requested, schema not drafted yet.
+- All four schemas (Principles, Roles, Plays, Relationships): approved by Eduardo, Nov 1, 2026.
 - First build: not run yet.
 
 ## Adding a database later
